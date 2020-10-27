@@ -1,0 +1,13 @@
+samosa 30 2
+vada_pava 45 2
+kachori 50 3
+panipuri[1p] 15 1
+bhailpuri 25 3
+idli 60 4
+sambar_vada 75 1
+dosa 80 5
+passta 65 1
+noddles 79 1
+cold_drink 30 3
+milk_shake 40 7
+miniral_water 15 10
