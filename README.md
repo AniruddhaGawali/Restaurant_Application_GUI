@@ -10,7 +10,7 @@ For managers its have very easy option to add, remove, reduce or increase the di
 But, it's only works on windows,but it still do tthe great job, It'sto cheat in pricing
 
 
-#### Features
+## Features
 ###### 1. Great UI
 ###### 2. Dark Theme
 ###### 3. Great User Experince for Manager
