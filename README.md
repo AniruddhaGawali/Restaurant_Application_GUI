@@ -7,7 +7,7 @@ This is an application made for restaurant for showing menuboard. This applicati
 
 For managers its have very easy option to add, remove, reduce or increase the dishes and its quantity. It's simple used your notepad in yourcomputer to added the dishers
 
-But, it's only works on windows,but it still do the great job, It's to cheat in pricing
+But, it's only works on windows,but it still do the great job, It's hard to cheat it in pricing
 
 
 ## Features
