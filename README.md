@@ -19,5 +19,5 @@ But, it's only works on windows,but it still do tthe great job, It'sto cheat in 
 
 
 
-- ## Installation
+## Installation
 ## [📥 Download Setup](https://github.com/AniruddhaGawali/Restaurant_Application_GUI/raw/master/Rest_setup.exe) 
