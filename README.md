@@ -16,3 +16,6 @@ But, it's only works on windows,but it still do tthe great job, It'sto cheat in 
 ###### 3. Great User Experince for Manager
 ###### 4. Fast and Best Alogorithm for Calculating Price
 ###### 5. Self Addng GST/Taxes
+
+- ### Installation
+## [📥 Download Setup](https://github.com/AniruddhaGawali/Restaurant_Application_GUI/raw/master/Rest_setup.exe) 
