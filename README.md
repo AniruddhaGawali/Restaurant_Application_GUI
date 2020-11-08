@@ -1,6 +1,6 @@
 # Restaurant Menu Application
 
-[<a href="https://www.freeiconspng.com/img/4887" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/map-navigation-pin-point-restaurant-icon--14.png" width="150" alt="map, navigation, pin, point, restaurant icon " /></a>]()
+[<a href="https://www.freeiconspng.com/img/4887" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/map-navigation-pin-point-restaurant-icon--14.png" width="180" alt="map, navigation, pin, point, restaurant icon " /></a>]()
 
 
 This is an application made for restaurant for showing menuboard. This application is fully based on python (tkinter). It's simple and easy to use user interfreance will help to select,remove dish easily as never seen.
