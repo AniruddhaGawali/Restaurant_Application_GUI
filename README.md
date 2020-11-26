@@ -11,11 +11,11 @@ But, it's only works on windows,but it still do the great job, It's hard to chea
 
 
 ## Features
-###### 1. Great UI
-###### 2. Dark Theme
-###### 3. Great User Experince for Manager
-###### 4. Fast and Best Alogorithm for Calculating Price
-###### 5. Self Addng GST/Taxes
+ 1. Great UI
+ 2. Dark Theme
+ 3. Great User Experince for Manager
+ 4. Fast and Best Alogorithm for Calculating Price
+ 5. Self Addng GST/Taxes
 
 
 
