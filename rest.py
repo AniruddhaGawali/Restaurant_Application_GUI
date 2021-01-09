@@ -75,7 +75,9 @@ class SampleApp(Tk):
 
         self.geometry('1000x560')
         self.maxsize(1200,560)
-        self.wm_iconbitmap("data/img/icon.ico")
+        # self.wm_iconbitmap("data/img/icon.ico")
+        p1 = PhotoImage(file = "data/img/icon.png")
+        self.iconphoto(False,p1)
         self.title('Restaurant')
 
         global name,phone_number 
